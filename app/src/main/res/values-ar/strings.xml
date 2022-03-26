@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">تکلیف ۳</string>
+    <string name="correct">درست</string>
+    <string name="wrong">اشتباه</string>
+    <string name="menuAverage">نمایش امتیاز</string>
+    <string name="menuNumberOfQuestions">انتخاب تعداد سوال</string>
+    <string name="menuReset">پاک کردن امتیاز</string>
+    <string name="q1">لیونل مسی اهل کشور آرژانتین است</string>
+    <string name="q2">ایران در خاورمیانه قرار دارد</string>
+    <string name="q3">پاریس پایتخت کشور آلمان است</string>
+    <string name="q4">برزیل بزرگترین کشور دنیا است</string>
+    <string name="q5">تویوتا ساخت کشور ژاپن است</string>
+    <string name="q6">هلند در قاره اروپا قرار دارد</string>
+    <string name="q7">بادام زمینی آجیل است</string>
+    <string name="q8">الکترون از نور سریعتر حرکت میکند</string>
+    <string name="q9">نور در خط مستقیم حرکت میکند</string>
+    <string name="q10">سیب بزرگ نام مستعار واشینگتن در سال ۱۹۷۱ داده شده است.</string>
+    <string name="result">نتیجه</string>
+    <string name="saveButton">ذخیره</string>
+    <string name="ignoreButton">فراموش</string>
+    <string name="scoreTextBegin">امتیاز شما:</string>
+    <string name="scoreTextEnd">از</string>
+    <string name="correctAnswer">صحیح</string>
+    <string name="wrongAnswer">غلط</string>
+    <string name="reset">امتیاز پاک شد</string>
+    <string name="okButton">تایید</string>
+    <string name="cancelButton">لغو</string>
+    <string name="selectNumberOfQuestionsText">شماره ای انتخاب کنید کمتر از</string>
+    <string name="showTotalResult"> تعداد پاسخ درست \\ تعداد کل سوالات = </string>
+    <string name="direction">\\</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
